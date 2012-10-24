@@ -1,7 +1,7 @@
 var expect = require('chai').expect,
     fs = require('fs-extra'),
     Checklist = require('checklist'),
-    Boilerplate = require('../../src/Boilerplate');
+    Boilerplate = require('../../');
 
 var TEST_TEMPLATE_DIRECTORY = __dirname + '/../sandbox/TestTemplate',
     TEST_OUTPUT_DIRECTORY = __dirname + '/../sandbox/TestOutput',

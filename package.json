@@ -1,7 +1,7 @@
 {
   "name": "simple-boilerplate",
   "description": "A simple, configurable, template based boilerplate project generator",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "homepage": "https://github.com/pghalliday/simple-boilerplate.git",
   "author": {
     "name": "Peter Halliday",
@@ -21,7 +21,7 @@
       "url": "https://github.com/pghalliday/simple-boilerplate/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "src/index.js",
+  "main": "src/Boilerplate.js",
   "engines": {
     "node": ">= 0.8.12"
   },
