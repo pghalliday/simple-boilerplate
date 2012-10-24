@@ -1,7 +1,7 @@
 {
   "name": "boilerplate",
   "description": "A simple, configurable, template based boilerplate project generator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/pghalliday/boilerplate.git",
   "author": {
     "name": "Peter Halliday",
@@ -29,6 +29,8 @@
     "test": "grunt"
   },
   "dependencies": {
+    "fs-extra": "~0.3.1",
+    "checklist": "0.0.5"
   },
   "devDependencies": {
     "grunt": "0.3.17",
