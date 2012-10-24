@@ -1,4 +1,4 @@
-boilerplate
+simple-boilerplate
 =========
 
 A simple, configurable, template based boilerplate project generator
@@ -18,7 +18,7 @@ npm install boilerplate
 ## API
 
 ```javascript
-var Boilerplate = require('boilerplate');
+var Boilerplate = require('simple-boilerplate');
 
 var REPLACEMENTS = [{
   what: 'A_FIELD',
